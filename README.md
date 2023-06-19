@@ -1,0 +1,13 @@
+<h1>Sistema de cadastro de jogos</h1>
+
+
+# Primeira parte
+
+> Status do projeto: Em desenvolvimento
+
+Para rodar esse projeto na sua maquina, por favor digite:
+
+
+```
+NPM INSTALL REACT
+```
